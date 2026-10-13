@@ -1,6 +1,6 @@
 # OSS Workshop — NIT Warangal
 
-Welcome to the open source workshop practise repo! This repo is a safe place to make your very first pull request.
+Welcome to the open source workshop practice repo! This repo is a safe place to make your first ever pull request.
 
 ## What you will learn
 
